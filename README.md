@@ -6,13 +6,13 @@ Students can develop software in a cloud-based context and build and deploy scal
 
 # Learning Outcomes
 
-- Understand and apply the principles of cloud-based computing (K5).
-- Implement and deploy running, scalable software applications in the cloud (K6).
-- Build applications in a cloud-based context by using continuous integration pipelines (K5).
-- Deploy applications to the cloud, e.g., by setting up a continuous delivery pipeline (K5).
-- Document requirements, design, and implementation of a project (K3).
-- Present the outcome of a project to fellow students and faculty members (K3).
-- Work in a team with fellow students (K3).
+- Understand and apply the principles of cloud-based computing.
+- Implement and deploy running, scalable software applications in the cloud.
+- Build applications in a cloud-based context by using continuous integration pipelines.
+- Deploy applications to the cloud, e.g., by setting up a continuous delivery pipeline.
+- Document requirements, design, and implementation of a project.
+- Present the outcome of a project to fellow students and faculty members.
+- Work in a team with fellow students.
 
 # Knowledge
 
