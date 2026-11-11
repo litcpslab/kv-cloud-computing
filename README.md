@@ -27,3 +27,13 @@ Students can develop software in a cloud-based context and build and deploy scal
 # Evaluation
 
 - Students have to present results of a project to be completed as homework.
+
+# Past Cloud Computing Lectures
+
+Contributors,
+- Andreas Grimmer
+- Johannes Bräuer
+
+Repo: https://github.com/clc3-CloudComputing/
+ 
+
